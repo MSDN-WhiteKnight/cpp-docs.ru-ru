@@ -555,7 +555,7 @@
       items:
         - name: Обзор модулей в C++
           href: ../cpp/modules-cpp.md
-        - name: 'модуль, импорт, экспорт'
+        - name: 'module, import, export'
           href: ../cpp/import-export-module.md
     - name: Шаблоны
       items:
